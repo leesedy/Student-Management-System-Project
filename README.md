@@ -1,0 +1,2 @@
+The Student Management System project for PRG271 is a software application designed to manage student records and academic data efficiently. It likely includes functionalities such as student registration, course enrollment, grade tracking, and report generation. The system aims to streamline administrative tasks, reduce errors, and provide quick access to student information for both staff and administrators.
+
