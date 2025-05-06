@@ -1,0 +1,62 @@
+C:\Users\LesediMoholoeng\source\repos\Student Management System\bin\Debug\Student Management System.exe.config
+C:\Users\LesediMoholoeng\source\repos\Student Management System\bin\Debug\Student Management System.exe
+C:\Users\LesediMoholoeng\source\repos\Student Management System\bin\Debug\Student Management System.pdb
+C:\Users\LesediMoholoeng\source\repos\Student Management System\obj\Debug\Student Management System.csproj.AssemblyReference.cache
+C:\Users\LesediMoholoeng\source\repos\Student Management System\obj\Debug\Student_Management_System.Form1.resources
+C:\Users\LesediMoholoeng\source\repos\Student Management System\obj\Debug\Student_Management_System.Properties.Resources.resources
+C:\Users\LesediMoholoeng\source\repos\Student Management System\obj\Debug\Student Management System.csproj.GenerateResource.cache
+C:\Users\LesediMoholoeng\source\repos\Student Management System\obj\Debug\Student Management System.csproj.CoreCompileInputs.cache
+C:\Users\LesediMoholoeng\source\repos\Student Management System\obj\Debug\Student Management System.exe
+C:\Users\LesediMoholoeng\source\repos\Student Management System\obj\Debug\Student Management System.pdb
+C:\Users\LesediMoholoeng\source\repos\Student Management System\obj\Debug\Student_Management_System.MainForm.resources
+C:\Users\LesediMoholoeng\source\repos\Student Management System\obj\Debug\Student_Management_System.FormLogin.resources
+C:\Users\kagis\Downloads\Student Management System (3)\Student Management System\bin\Debug\Student Management System.exe.config
+C:\Users\kagis\Downloads\Student Management System (3)\Student Management System\bin\Debug\Student Management System.exe
+C:\Users\kagis\Downloads\Student Management System (3)\Student Management System\bin\Debug\Student Management System.pdb
+C:\Users\kagis\Downloads\Student Management System (3)\Student Management System\obj\Debug\Student Management System.csproj.AssemblyReference.cache
+C:\Users\kagis\Downloads\Student Management System (3)\Student Management System\obj\Debug\Student Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\kagis\Downloads\Student Management System (3)\Student Management System\obj\Debug\Student_Management_System.Form1.resources
+C:\Users\kagis\Downloads\Student Management System (3)\Student Management System\obj\Debug\Student_Management_System.FormLogin.resources
+C:\Users\kagis\Downloads\Student Management System (3)\Student Management System\obj\Debug\Student_Management_System.MainForm.resources
+C:\Users\kagis\Downloads\Student Management System (3)\Student Management System\obj\Debug\Student_Management_System.Properties.Resources.resources
+C:\Users\kagis\Downloads\Student Management System (3)\Student Management System\obj\Debug\Student Management System.csproj.GenerateResource.cache
+C:\Users\kagis\Downloads\Student Management System (3)\Student Management System\obj\Debug\Student Management System.csproj.CoreCompileInputs.cache
+C:\Users\kagis\Downloads\Student Management System (3)\Student Management System\obj\Debug\Student Management System.exe
+C:\Users\kagis\Downloads\Student Management System (3)\Student Management System\obj\Debug\Student Management System.pdb
+C:\Users\LesediMoholoeng\Downloads\final project\Student Management System\obj\Debug\Student Management System.csproj.AssemblyReference.cache
+C:\Users\LesediMoholoeng\Downloads\final project\Student Management System\obj\Debug\Student_Management_System.Form1.resources
+C:\Users\LesediMoholoeng\Downloads\final project\Student Management System\obj\Debug\Student_Management_System.FormLogin.resources
+C:\Users\LesediMoholoeng\Downloads\final project\Student Management System\obj\Debug\Student_Management_System.MainForm.resources
+C:\Users\LesediMoholoeng\Downloads\final project\Student Management System\obj\Debug\Student_Management_System.Properties.Resources.resources
+C:\Users\LesediMoholoeng\Downloads\final project\Student Management System\obj\Debug\Student Management System.csproj.GenerateResource.cache
+C:\Users\LesediMoholoeng\Downloads\final project\Student Management System\obj\Debug\Student Management System.csproj.CoreCompileInputs.cache
+C:\Users\LesediMoholoeng\Downloads\final project\Student Management System\obj\Debug\Student Management System.exe
+C:\Users\LesediMoholoeng\Downloads\final project\Student Management System\obj\Debug\Student Management System.pdb
+C:\Users\LesediMoholoeng\Downloads\final project\Student Management System\bin\Debug\Student Management System.exe.config
+C:\Users\LesediMoholoeng\Downloads\final project\Student Management System\bin\Debug\Student Management System.exe
+C:\Users\LesediMoholoeng\Downloads\final project\Student Management System\bin\Debug\Student Management System.pdb
+C:\Users\Computer\Desktop\Student Management System Final\Student Management System Final\Student Management System\bin\Debug\Student Management System.exe.config
+C:\Users\Computer\Desktop\Student Management System Final\Student Management System Final\Student Management System\bin\Debug\Student Management System.exe
+C:\Users\Computer\Desktop\Student Management System Final\Student Management System Final\Student Management System\bin\Debug\Student Management System.pdb
+C:\Users\Computer\Desktop\Student Management System Final\Student Management System Final\Student Management System\obj\Debug\Student Management System.csproj.AssemblyReference.cache
+C:\Users\Computer\Desktop\Student Management System Final\Student Management System Final\Student Management System\obj\Debug\Student Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\Computer\Desktop\Student Management System Final\Student Management System Final\Student Management System\obj\Debug\Student_Management_System.Form1.resources
+C:\Users\Computer\Desktop\Student Management System Final\Student Management System Final\Student Management System\obj\Debug\Student_Management_System.FormLogin.resources
+C:\Users\Computer\Desktop\Student Management System Final\Student Management System Final\Student Management System\obj\Debug\Student_Management_System.MainForm.resources
+C:\Users\Computer\Desktop\Student Management System Final\Student Management System Final\Student Management System\obj\Debug\Student_Management_System.Properties.Resources.resources
+C:\Users\Computer\Desktop\Student Management System Final\Student Management System Final\Student Management System\obj\Debug\Student Management System.csproj.GenerateResource.cache
+C:\Users\Computer\Desktop\Student Management System Final\Student Management System Final\Student Management System\obj\Debug\Student Management System.csproj.CoreCompileInputs.cache
+C:\Users\Computer\Desktop\Student Management System Final\Student Management System Final\Student Management System\obj\Debug\Student Management System.exe
+C:\Users\Computer\Desktop\Student Management System Final\Student Management System Final\Student Management System\obj\Debug\Student Management System.pdb
+C:\Users\LesediMoholoeng\Downloads\PRG272_Project_600242_601390_600655_601268\PRG271_Project_600242_601390_600655_601268\Student Management System_PRG271_Project\bin\Debug\Student Management System.exe.config
+C:\Users\LesediMoholoeng\Downloads\PRG272_Project_600242_601390_600655_601268\PRG271_Project_600242_601390_600655_601268\Student Management System_PRG271_Project\bin\Debug\Student Management System.exe
+C:\Users\LesediMoholoeng\Downloads\PRG272_Project_600242_601390_600655_601268\PRG271_Project_600242_601390_600655_601268\Student Management System_PRG271_Project\bin\Debug\Student Management System.pdb
+C:\Users\LesediMoholoeng\Downloads\PRG272_Project_600242_601390_600655_601268\PRG271_Project_600242_601390_600655_601268\Student Management System_PRG271_Project\obj\Debug\Student Management System.csproj.AssemblyReference.cache
+C:\Users\LesediMoholoeng\Downloads\PRG272_Project_600242_601390_600655_601268\PRG271_Project_600242_601390_600655_601268\Student Management System_PRG271_Project\obj\Debug\Student_Management_System.Form1.resources
+C:\Users\LesediMoholoeng\Downloads\PRG272_Project_600242_601390_600655_601268\PRG271_Project_600242_601390_600655_601268\Student Management System_PRG271_Project\obj\Debug\Student_Management_System.FormLogin.resources
+C:\Users\LesediMoholoeng\Downloads\PRG272_Project_600242_601390_600655_601268\PRG271_Project_600242_601390_600655_601268\Student Management System_PRG271_Project\obj\Debug\Student_Management_System.MainForm.resources
+C:\Users\LesediMoholoeng\Downloads\PRG272_Project_600242_601390_600655_601268\PRG271_Project_600242_601390_600655_601268\Student Management System_PRG271_Project\obj\Debug\Student_Management_System.Properties.Resources.resources
+C:\Users\LesediMoholoeng\Downloads\PRG272_Project_600242_601390_600655_601268\PRG271_Project_600242_601390_600655_601268\Student Management System_PRG271_Project\obj\Debug\Student Management System.csproj.GenerateResource.cache
+C:\Users\LesediMoholoeng\Downloads\PRG272_Project_600242_601390_600655_601268\PRG271_Project_600242_601390_600655_601268\Student Management System_PRG271_Project\obj\Debug\Student Management System.csproj.CoreCompileInputs.cache
+C:\Users\LesediMoholoeng\Downloads\PRG272_Project_600242_601390_600655_601268\PRG271_Project_600242_601390_600655_601268\Student Management System_PRG271_Project\obj\Debug\Student Management System.exe
+C:\Users\LesediMoholoeng\Downloads\PRG272_Project_600242_601390_600655_601268\PRG271_Project_600242_601390_600655_601268\Student Management System_PRG271_Project\obj\Debug\Student Management System.pdb
